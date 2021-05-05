@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:21:55 GMT
+// Generated on Wed, 05 May 2021 09:28:03 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -35,18 +35,7 @@ EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
 EffectInnerShadowMultiple2Color,
-PredefinedClassicLight,
-PredefinedGhostBlue,
-PredefinedMintCream,
-PredefinedMagnolia,
-PredefinedLightRed,
-PredefinedSun,
-PredefinedClassicDark,
-PredefinedAsphalt,
-PredefinedKombuGreen,
-PredefinedDarkPurple,
-PredefinedDarkSienna,
-PredefinedOlive
+BrandBlue
 };
 
 @interface StyleDictionaryColor : NSObject

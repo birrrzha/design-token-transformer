@@ -3,7 +3,7 @@
 // StyleDictionaryColor.m
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:21:55 GMT
+// Generated on Wed, 05 May 2021 09:28:03 GMT
 //
 
 #import "StyleDictionaryColor.h"
@@ -46,18 +46,7 @@ rgba(0, 0, 0, 0.25),
 rgba(0, 0, 0, 0.25),
 rgba(0, 0, 0, 1),
 rgba(0, 0, 0, 0.25),
-rgba(248, 248, 248, 1),
-rgba(246, 250, 255, 1),
-rgba(247, 255, 246, 1),
-rgba(250, 246, 255, 1),
-rgba(255, 246, 246, 1),
-rgba(255, 252, 246, 1),
-rgba(42, 42, 42, 1),
-rgba(31, 51, 57, 1),
-rgba(37, 55, 36, 1),
-rgba(28, 24, 53, 1),
-rgba(45, 0, 0, 1),
-rgba(57, 47, 30, 1)
+rgba(45, 114, 229, 1)
     ];
   });
 

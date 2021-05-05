@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:21:55 GMT
+// Generated on Wed, 05 May 2021 09:28:03 GMT
 //
 
 
@@ -122,21 +122,12 @@ public class StyleDictionary {
     public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
     public static let bordersUnsupportedMultipleBordersStrokeMiterLimit = 4
     public static let bordersUnsupportedMultipleBordersStrokeWeight = 1
+    public static let brandBlue = rgba(45, 114, 229, 1)
     public static let colorsMultipleFills0 = rgba(64, 255, 186, 1)
     public static let colorsMultipleFills1 = rgba(0, 0, 0, 0.1)
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
-    public static let desktop960W0Alignment = center
-    public static let desktop960W0Count = 12
-    public static let desktop960W0GutterSize = 20
-    public static let desktop960W0Pattern = columns
-    public static let desktop960W0SectionSize = 60
-    public static let desktop960W1Alignment = center
-    public static let desktop960W1Count = 1
-    public static let desktop960W1GutterSize = 1
-    public static let desktop960W1Pattern = columns
-    public static let desktop960W1SectionSize = 960
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -245,26 +236,6 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
-    public static let mobile320W0Alignment = center
-    public static let mobile320W0Count = 4
-    public static let mobile320W0GutterSize = 20
-    public static let mobile320W0Pattern = columns
-    public static let mobile320W0SectionSize = 60
-    public static let mobile320W1Alignment = center
-    public static let mobile320W1Count = 1
-    public static let mobile320W1GutterSize = 1
-    public static let mobile320W1Pattern = columns
-    public static let mobile320W1SectionSize = 320
-    public static let mobile480W0Alignment = center
-    public static let mobile480W0Count = 6
-    public static let mobile480W0GutterSize = 20
-    public static let mobile480W0Pattern = columns
-    public static let mobile480W0SectionSize = 60
-    public static let mobile480W1Alignment = center
-    public static let mobile480W1Count = 1
-    public static let mobile480W1GutterSize = 1
-    public static let mobile480W1Pattern = columns
-    public static let mobile480W1SectionSize = 480
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -295,18 +266,6 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
-    public static let predefinedAsphalt = rgba(31, 51, 57, 1)
-    public static let predefinedClassicDark = rgba(42, 42, 42, 1)
-    public static let predefinedClassicLight = rgba(248, 248, 248, 1)
-    public static let predefinedDarkPurple = rgba(28, 24, 53, 1)
-    public static let predefinedDarkSienna = rgba(45, 0, 0, 1)
-    public static let predefinedGhostBlue = rgba(246, 250, 255, 1)
-    public static let predefinedKombuGreen = rgba(37, 55, 36, 1)
-    public static let predefinedLightRed = rgba(255, 246, 246, 1)
-    public static let predefinedMagnolia = rgba(250, 246, 255, 1)
-    public static let predefinedMintCream = rgba(247, 255, 246, 1)
-    public static let predefinedOlive = rgba(57, 47, 30, 1)
-    public static let predefinedSun = rgba(255, 252, 246, 1)
     public static let radii5RadiiBottomLeft = 5
     public static let radii5RadiiBottomRight = 5
     public static let radii5RadiiTopLeft = 5
@@ -353,14 +312,4 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
-    public static let tablet640W0Alignment = center
-    public static let tablet640W0Count = 8
-    public static let tablet640W0GutterSize = 20
-    public static let tablet640W0Pattern = columns
-    public static let tablet640W0SectionSize = 60
-    public static let tablet640W1Alignment = center
-    public static let tablet640W1Count = 1
-    public static let tablet640W1GutterSize = 1
-    public static let tablet640W1Pattern = columns
-    public static let tablet640W1SectionSize = 640
 }

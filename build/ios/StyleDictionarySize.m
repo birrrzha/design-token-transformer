@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:21:55 GMT
+// Generated on Wed, 05 May 2021 09:28:03 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,27 +179,3 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
-float const Desktop960W0SectionSize = 60;
-float const Desktop960W0GutterSize = 20;
-float const Desktop960W0Count = 12;
-float const Desktop960W1SectionSize = 960;
-float const Desktop960W1GutterSize = 1;
-float const Desktop960W1Count = 1;
-float const Tablet640W0SectionSize = 60;
-float const Tablet640W0GutterSize = 20;
-float const Tablet640W0Count = 8;
-float const Tablet640W1SectionSize = 640;
-float const Tablet640W1GutterSize = 1;
-float const Tablet640W1Count = 1;
-float const Mobile320W0SectionSize = 60;
-float const Mobile320W0GutterSize = 20;
-float const Mobile320W0Count = 4;
-float const Mobile320W1SectionSize = 320;
-float const Mobile320W1GutterSize = 1;
-float const Mobile320W1Count = 1;
-float const Mobile480W0SectionSize = 60;
-float const Mobile480W0GutterSize = 20;
-float const Mobile480W0Count = 6;
-float const Mobile480W1SectionSize = 480;
-float const Mobile480W1GutterSize = 1;
-float const Mobile480W1Count = 1;
