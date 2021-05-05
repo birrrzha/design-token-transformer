@@ -3,14 +3,14 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 10:08:18 GMT
+// Generated on Wed, 05 May 2021 10:14:33 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-BrandBlue
+BrandBluish
 };
 
 @interface StyleDictionaryColor : NSObject
