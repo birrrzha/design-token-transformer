@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 05 May 2021 09:13:58 GMT
 //
 
 import UIKit
@@ -52,6 +52,12 @@ public enum StyleDictionarySize {
     public static let unsupportedImageBordersStrokeWeight = 1
     public static let unsupportedMultipleBordersStrokeMiterLimit = 4
     public static let unsupportedMultipleBordersStrokeWeight = 1
+    public static let 0Count = 12
+    public static let 0GutterSize = 20
+    public static let 0SectionSize = 60
+    public static let 1Count = 1
+    public static let 1GutterSize = 1
+    public static let 1SectionSize = 960
     public static let backgroundBlurRadius = 4
     public static let dropShadowSingleOffsetX = 0
     public static let dropShadowSingleOffsetY = 4
@@ -116,6 +122,22 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let offsetX = 0
+    public static let offsetY = 1
+    public static let radius = 2
+    public static let spread = 0
+    public static let 0Count = 4
+    public static let 0GutterSize = 20
+    public static let 0SectionSize = 60
+    public static let 1Count = 1
+    public static let 1GutterSize = 1
+    public static let 1SectionSize = 320
+    public static let 0Count = 6
+    public static let 0GutterSize = 20
+    public static let 0SectionSize = 60
+    public static let 1Count = 1
+    public static let 1GutterSize = 1
+    public static let 1SectionSize = 480
     public static let dissolveDuration = 0.45
     public static let dissolveEasingFunctionX1 = 0.6968395709991455
     public static let dissolveEasingFunctionX2 = 0.06683959811925888
@@ -178,4 +200,22 @@ public enum StyleDictionarySize {
     public static let topLeft = 0
     public static let topRight = 0
     public static let topTop = 10
+    public static let 0OffsetX = 0
+    public static let 0OffsetY = 0
+    public static let 0Radius = 1
+    public static let 0Spread = 0
+    public static let 1OffsetX = 0
+    public static let 1OffsetY = 2
+    public static let 1Radius = 6
+    public static let 1Spread = 0
+    public static let 2OffsetX = 0
+    public static let 2OffsetY = 16
+    public static let 2Radius = 24
+    public static let 2Spread = 0
+    public static let 0Count = 8
+    public static let 0GutterSize = 20
+    public static let 0SectionSize = 60
+    public static let 1Count = 1
+    public static let 1GutterSize = 1
+    public static let 1SectionSize = 640
 }

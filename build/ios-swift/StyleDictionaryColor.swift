@@ -3,7 +3,7 @@
 // StyleDictionaryColor.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 05 May 2021 09:13:58 GMT
 //
 
 import UIKit
@@ -22,6 +22,7 @@ public enum StyleDictionaryColor {
     public static let innerShadowMultiple0Color = rgba(0, 0, 0, 0.25)
     public static let innerShadowMultiple1Color = rgba(0, 0, 0, 1)
     public static let innerShadowMultiple2Color = rgba(0, 0, 0, 0.25)
+    public static let  = rgba(178, 15, 30, 1)
     public static let multiple0Stops0Color = rgba(255, 184, 0, 1)
     public static let multiple0Stops1Color = rgba(255, 184, 0, 1)
     public static let multiple1Stops0Color = rgba(255, 255, 255, 1)
@@ -34,4 +35,36 @@ public enum StyleDictionaryColor {
     public static let singleWithMultipleColorStopsStops1Color = rgba(255, 138, 0, 1)
     public static let singleWithMultipleColorStopsStops2Color = rgba(255, 46, 0, 1)
     public static let singleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
+    public static let dark1 = rgba(153, 153, 153, 1)
+    public static let dark2 = rgba(119, 119, 119, 1)
+    public static let dark3 = rgba(85, 85, 85, 1)
+    public static let dark4 = rgba(51, 51, 51, 1)
+    public static let dark5 = rgba(17, 17, 17, 1)
+    public static let light1 = rgba(248, 248, 248, 1)
+    public static let light2 = rgba(239, 239, 239, 1)
+    public static let light3 = rgba(221, 221, 221, 1)
+    public static let light4 = rgba(209, 209, 209, 1)
+    public static let light5 = rgba(187, 187, 187, 1)
+    public static let  = rgba(75, 185, 170, 1)
+    public static let  = rgba(0, 166, 81, 1)
+    public static let color = rgba(0, 0, 0, 0.1)
+    public static let asphalt = rgba(31, 51, 57, 1)
+    public static let classicDark = rgba(42, 42, 42, 1)
+    public static let classicLight = rgba(248, 248, 248, 1)
+    public static let darkPurple = rgba(28, 24, 53, 1)
+    public static let darkSienna = rgba(45, 0, 0, 1)
+    public static let ghostBlue = rgba(246, 250, 255, 1)
+    public static let kombuGreen = rgba(37, 55, 36, 1)
+    public static let lightRed = rgba(255, 246, 246, 1)
+    public static let magnolia = rgba(250, 246, 255, 1)
+    public static let mintCream = rgba(247, 255, 246, 1)
+    public static let olive = rgba(57, 47, 30, 1)
+    public static let sun = rgba(255, 252, 246, 1)
+    public static let 0Color = rgba(0, 0, 0, 0.04)
+    public static let 1Color = rgba(0, 0, 0, 0.04)
+    public static let 2Color = rgba(0, 0, 0, 0.06)
+    public static let  = rgba(255, 255, 255, 1)
+    public static let  = rgba(255, 255, 255, 1)
+    public static let  = rgba(255, 255, 255, 0.9)
+    public static let  = rgba(250, 207, 26, 1)
 }

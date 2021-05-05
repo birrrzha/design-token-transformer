@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 05 May 2021 09:13:58 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,3 +179,43 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const Desktop960W0SectionSize = 60;
+float const Desktop960W0GutterSize = 20;
+float const Desktop960W0Count = 12;
+float const Desktop960W1SectionSize = 960;
+float const Desktop960W1GutterSize = 1;
+float const Desktop960W1Count = 1;
+float const Tablet640W0SectionSize = 60;
+float const Tablet640W0GutterSize = 20;
+float const Tablet640W0Count = 8;
+float const Tablet640W1SectionSize = 640;
+float const Tablet640W1GutterSize = 1;
+float const Tablet640W1Count = 1;
+float const Mobile320W0SectionSize = 60;
+float const Mobile320W0GutterSize = 20;
+float const Mobile320W0Count = 4;
+float const Mobile320W1SectionSize = 320;
+float const Mobile320W1GutterSize = 1;
+float const Mobile320W1Count = 1;
+float const Mobile480W0SectionSize = 60;
+float const Mobile480W0GutterSize = 20;
+float const Mobile480W0Count = 6;
+float const Mobile480W1SectionSize = 480;
+float const Mobile480W1GutterSize = 1;
+float const Mobile480W1Count = 1;
+float const InputShadowRadius = 2;
+float const InputShadowOffsetX = 0;
+float const InputShadowOffsetY = 1;
+float const InputShadowSpread = 0;
+float const SurfaceShadow0Radius = 1;
+float const SurfaceShadow0OffsetX = 0;
+float const SurfaceShadow0OffsetY = 0;
+float const SurfaceShadow0Spread = 0;
+float const SurfaceShadow1Radius = 6;
+float const SurfaceShadow1OffsetX = 0;
+float const SurfaceShadow1OffsetY = 2;
+float const SurfaceShadow1Spread = 0;
+float const SurfaceShadow2Radius = 24;
+float const SurfaceShadow2OffsetX = 0;
+float const SurfaceShadow2OffsetY = 16;
+float const SurfaceShadow2Spread = 0;

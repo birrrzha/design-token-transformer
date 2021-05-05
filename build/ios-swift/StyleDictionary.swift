@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 30 Mar 2021 20:43:12 GMT
+// Generated on Wed, 05 May 2021 09:13:58 GMT
 //
 
 
@@ -127,6 +127,16 @@ public class StyleDictionary {
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
+    public static let desktop960W0Alignment = center
+    public static let desktop960W0Count = 12
+    public static let desktop960W0GutterSize = 20
+    public static let desktop960W0Pattern = columns
+    public static let desktop960W0SectionSize = 60
+    public static let desktop960W1Alignment = center
+    public static let desktop960W1Count = 1
+    public static let desktop960W1GutterSize = 1
+    public static let desktop960W1Pattern = columns
+    public static let desktop960W1SectionSize = 960
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -155,6 +165,7 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let error = rgba(178, 15, 30, 1)
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -189,6 +200,18 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
+    public static let grayDark1 = rgba(153, 153, 153, 1)
+    public static let grayDark2 = rgba(119, 119, 119, 1)
+    public static let grayDark3 = rgba(85, 85, 85, 1)
+    public static let grayDark4 = rgba(51, 51, 51, 1)
+    public static let grayDark5 = rgba(17, 17, 17, 1)
+    public static let grayLight1 = rgba(248, 248, 248, 1)
+    public static let grayLight2 = rgba(239, 239, 239, 1)
+    public static let grayLight3 = rgba(221, 221, 221, 1)
+    public static let grayLight4 = rgba(209, 209, 209, 1)
+    public static let grayLight5 = rgba(187, 187, 187, 1)
+    public static let greenBright = rgba(0, 166, 81, 1)
+    public static let green = rgba(75, 185, 170, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -235,6 +258,32 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+    public static let inputShadowColor = rgba(0, 0, 0, 0.1)
+    public static let inputShadowOffsetX = 0
+    public static let inputShadowOffsetY = 1
+    public static let inputShadowRadius = 2
+    public static let inputShadowSpread = 0
+    public static let inputShadowType = dropShadow
+    public static let mobile320W0Alignment = center
+    public static let mobile320W0Count = 4
+    public static let mobile320W0GutterSize = 20
+    public static let mobile320W0Pattern = columns
+    public static let mobile320W0SectionSize = 60
+    public static let mobile320W1Alignment = center
+    public static let mobile320W1Count = 1
+    public static let mobile320W1GutterSize = 1
+    public static let mobile320W1Pattern = columns
+    public static let mobile320W1SectionSize = 320
+    public static let mobile480W0Alignment = center
+    public static let mobile480W0Count = 6
+    public static let mobile480W0GutterSize = 20
+    public static let mobile480W0Pattern = columns
+    public static let mobile480W0SectionSize = 60
+    public static let mobile480W1Alignment = center
+    public static let mobile480W1Count = 1
+    public static let mobile480W1GutterSize = 1
+    public static let mobile480W1Pattern = columns
+    public static let mobile480W1SectionSize = 480
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -265,6 +314,18 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
+    public static let predefinedAsphalt = rgba(31, 51, 57, 1)
+    public static let predefinedClassicDark = rgba(42, 42, 42, 1)
+    public static let predefinedClassicLight = rgba(248, 248, 248, 1)
+    public static let predefinedDarkPurple = rgba(28, 24, 53, 1)
+    public static let predefinedDarkSienna = rgba(45, 0, 0, 1)
+    public static let predefinedGhostBlue = rgba(246, 250, 255, 1)
+    public static let predefinedKombuGreen = rgba(37, 55, 36, 1)
+    public static let predefinedLightRed = rgba(255, 246, 246, 1)
+    public static let predefinedMagnolia = rgba(250, 246, 255, 1)
+    public static let predefinedMintCream = rgba(247, 255, 246, 1)
+    public static let predefinedOlive = rgba(57, 47, 30, 1)
+    public static let predefinedSun = rgba(255, 252, 246, 1)
     public static let radii5RadiiBottomLeft = 5
     public static let radii5RadiiBottomRight = 5
     public static let radii5RadiiTopLeft = 5
@@ -311,4 +372,36 @@ public class StyleDictionary {
     public static let spacingTopLeft = 0
     public static let spacingTopRight = 0
     public static let spacingTopTop = 10
+    public static let surfaceShadow0Color = rgba(0, 0, 0, 0.04)
+    public static let surfaceShadow0OffsetX = 0
+    public static let surfaceShadow0OffsetY = 0
+    public static let surfaceShadow0Radius = 1
+    public static let surfaceShadow0Spread = 0
+    public static let surfaceShadow0Type = dropShadow
+    public static let surfaceShadow1Color = rgba(0, 0, 0, 0.04)
+    public static let surfaceShadow1OffsetX = 0
+    public static let surfaceShadow1OffsetY = 2
+    public static let surfaceShadow1Radius = 6
+    public static let surfaceShadow1Spread = 0
+    public static let surfaceShadow1Type = dropShadow
+    public static let surfaceShadow2Color = rgba(0, 0, 0, 0.06)
+    public static let surfaceShadow2OffsetX = 0
+    public static let surfaceShadow2OffsetY = 16
+    public static let surfaceShadow2Radius = 24
+    public static let surfaceShadow2Spread = 0
+    public static let surfaceShadow2Type = dropShadow
+    public static let surfaceWhite = rgba(255, 255, 255, 1)
+    public static let tablet640W0Alignment = center
+    public static let tablet640W0Count = 8
+    public static let tablet640W0GutterSize = 20
+    public static let tablet640W0Pattern = columns
+    public static let tablet640W0SectionSize = 60
+    public static let tablet640W1Alignment = center
+    public static let tablet640W1Count = 1
+    public static let tablet640W1GutterSize = 1
+    public static let tablet640W1Pattern = columns
+    public static let tablet640W1SectionSize = 640
+    public static let white90 = rgba(255, 255, 255, 0.9)
+    public static let white = rgba(255, 255, 255, 1)
+    public static let yellow = rgba(250, 207, 26, 1)
 }
