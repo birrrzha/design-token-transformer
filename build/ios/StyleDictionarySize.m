@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:13:58 GMT
+// Generated on Wed, 05 May 2021 09:21:55 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -203,19 +203,3 @@ float const Mobile480W0Count = 6;
 float const Mobile480W1SectionSize = 480;
 float const Mobile480W1GutterSize = 1;
 float const Mobile480W1Count = 1;
-float const InputShadowRadius = 2;
-float const InputShadowOffsetX = 0;
-float const InputShadowOffsetY = 1;
-float const InputShadowSpread = 0;
-float const SurfaceShadow0Radius = 1;
-float const SurfaceShadow0OffsetX = 0;
-float const SurfaceShadow0OffsetY = 0;
-float const SurfaceShadow0Spread = 0;
-float const SurfaceShadow1Radius = 6;
-float const SurfaceShadow1OffsetX = 0;
-float const SurfaceShadow1OffsetY = 2;
-float const SurfaceShadow1Spread = 0;
-float const SurfaceShadow2Radius = 24;
-float const SurfaceShadow2OffsetX = 0;
-float const SurfaceShadow2OffsetY = 16;
-float const SurfaceShadow2Spread = 0;

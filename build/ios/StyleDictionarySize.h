@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Wed, 05 May 2021 09:13:58 GMT
+// Generated on Wed, 05 May 2021 09:21:55 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -202,19 +202,3 @@ extern float const Mobile480W0Count;
 extern float const Mobile480W1SectionSize;
 extern float const Mobile480W1GutterSize;
 extern float const Mobile480W1Count;
-extern float const InputShadowRadius;
-extern float const InputShadowOffsetX;
-extern float const InputShadowOffsetY;
-extern float const InputShadowSpread;
-extern float const SurfaceShadow0Radius;
-extern float const SurfaceShadow0OffsetX;
-extern float const SurfaceShadow0OffsetY;
-extern float const SurfaceShadow0Spread;
-extern float const SurfaceShadow1Radius;
-extern float const SurfaceShadow1OffsetX;
-extern float const SurfaceShadow1OffsetY;
-extern float const SurfaceShadow1Spread;
-extern float const SurfaceShadow2Radius;
-extern float const SurfaceShadow2OffsetX;
-extern float const SurfaceShadow2OffsetY;
-extern float const SurfaceShadow2Spread;
